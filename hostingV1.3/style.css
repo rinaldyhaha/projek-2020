@@ -1,0 +1,310 @@
+.row{
+    padding: 77px 0 77px 0;
+    margin-top: -11px;
+    margin-bottom: -11px;
+}
+
+nav {
+    box-shadow: 1px 0px 5px;
+}
+
+.bg-nav{
+    background-color: salmon;
+    color: white;
+}
+
+.papan {
+    font-size: 55px;
+}
+
+.text-papan {
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.text-big {
+ font-weight: bold;
+ font-size: 33px;
+}
+
+a.nav-item.nav-link.text-nav{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+a.navbar-brand {
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+
+
+.panel{
+    padding: 50px 10px 50px;
+}
+
+.gambar-kecil {
+    width: 77px;
+}
+
+.basic{
+    text-align: center;
+}
+
+.basic .panel {
+    box-shadow: 1px 1px 2px 2px #D0D0D0;
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+}
+
+.basic .panel:hover {
+    box-shadow: 2px 2px 8px #D0D0D0;
+    border: 1px solid;
+    background-color: lightblue;
+    color: white;
+    text-shadow: 1px 1px 8px #D0D0D0;
+    margin-top: -2px;
+}
+
+.basic h3 {
+    color: grey;
+}
+
+.basic .harga-perbulan{
+    font-size: 22px;
+}
+
+h6.harga-basic {
+    font-size: 44px;
+    color: darkslateblue;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+a.panel-basic-button{
+    border: 1px solid;
+    background-color: salmon;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    width: 50%;
+    margin: 20px auto 0 auto;
+    letter-spacing: 2px;
+    border-color: salmon;
+    text-decoration: none;
+}
+
+.panel-basic-button a{
+    text-decoration: none;
+    color: white;
+    letter-spacing: 2px;
+
+}
+
+
+.premium{
+    text-align: center;
+}
+
+.premium .panel {
+    margin-top: 0px;
+    box-shadow: 1px 1px 2px 2px #D0D0D0;
+    margin-bottom: 20px;
+
+}
+
+.premium .panel:hover {
+    box-shadow: 2px 2px 8px #D0D0D0;
+    border: 1px solid;
+    background-color: lightgreen;
+    color: white;
+    text-shadow: 1px 1px 8px #D0D0D0;
+    margin-top: -2px;
+}
+
+.premium .harga-perbulan {
+    font-size: 22px;
+}
+
+.premium h3 {
+    color: green;
+}
+
+.panel-premium-button{
+    border: 1px solid;
+    background-color: salmon;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    width: 50%;
+    margin: 20px auto 0 auto;
+    border-color: salmon;
+}
+
+h6.harga-premium {
+    font-size: 44px;
+    font-weight: 800;
+    color: darkgreen;
+    margin-bottom: 30px;
+}
+
+a.panel-premium-button {
+    text-decoration: none;
+    color: white;
+    letter-spacing: 2px;
+
+}
+
+
+
+.pro{
+    text-align: center;
+}
+
+.pro .panel {
+    margin-top: 0px;
+    box-shadow: 1px 1px 2px 2px #D0D0D0;
+    margin-bottom: 20px;
+
+}
+
+.pro .panel:hover {
+    box-shadow: 2px 2px 8px #D0D0D0;
+    border: 1px solid;
+    background-color: gold;
+    color: white;
+    text-shadow: 1px 1px 8px #D0D0D0;
+    margin-top: -2px;
+}
+
+.pro .harga-perbulan {
+    font-size: 22px;
+}
+
+.pro h3 {
+    color: goldenrod;
+}
+
+h6.harga-pro {
+    font-size: 44px;
+    font-weight: 800;
+    color: darkgoldenrod;
+    margin-bottom: 30px;
+}
+
+.panel-pro-button{
+    border: 1px solid;
+    background-color: salmon;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    width: 50%;
+    margin: 20px auto 0 auto;
+    border-color: salmon;
+}
+
+a.panel-pro-button {
+    text-decoration: none;
+    color: white;
+    letter-spacing: 2px;
+}
+
+/* INFO PANEL */
+
+.info-panel{
+    box-shadow: 1px 1px 7px;
+    padding: 0px 10px 0px 35px;
+    background-color: salmon;
+}
+.info-panel .garansi{
+    margin-bottom: 11px;
+}
+.info-panel p.text-garansi{
+    margin-top: 3%;
+    text-align: center;
+    font-weight: 500;
+}
+
+.info-panel .migrasi{
+    margin-bottom: 11px;
+}
+.info-panel p.text-migrasi{
+    margin-top: 3%;
+    text-align: center;
+    font-weight: 500;
+}
+
+.info-panel .online-support{
+    margin-bottom: 11px;
+}
+.info-panel p.text-online-support{
+    margin-top: 3%;
+    text-align: center;
+    font-weight: 500;
+}
+
+
+/* PRODUK */
+.produk {
+    box-shadow: 0px 0px 3px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.produk .title-produk{
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    font-weight: 777;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.produk .desk-produk{
+    margin-bottom: 20px;
+}
+
+.produk a.produk-button{
+    border: 1px solid;
+    color: white;
+    background-color: salmon;
+    letter-spacing: 2px;
+    padding: 10px;
+    border-radius: 30px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.produk a.produk-button:hover{
+    border: 1px solid;
+    color: white;
+    background-color: skyblue;
+    letter-spacing: 2px;
+    padding: 10px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+/* FITUR HOSTING */
+.container-fitur-hosting {
+    background-color: salmon;
+    color: white;
+}
+
+.fitur-hosting {
+    font-size: 33px;
+    font-weight: 666;
+}
+
+.item-fitur-hosting{
+    padding: 10px;
+}
+
+.item-fitur-hosting:hover{
+    padding: 10px;
+    background-color: skyblue;
+}
+
+.title-fitur-hosting {
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+
